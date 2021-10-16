@@ -1,4 +1,21 @@
 h1 {
     color: aquamarine;
     font-size: 60px;
+    border-color: azure;
+    border-width: 2px;
+}
+
+body {
+    background-image: url('https://i.pinimg.com/originals/24/3a/81/243a812e0cb86b82b08e9e28e47981c8.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.europe {
+    color: red;
+    font-size: 22px;
+}
+
+#yellow {
+    color: orange;
 }

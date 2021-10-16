@@ -1,0 +1,17 @@
+body {
+    background-color: #2c3e50;
+}
+
+#yellow-title {
+    color: #f1c40f;
+
+}
+
+.daysWeek {
+    background-color: #f1c40f;
+    color: black;
+}
+
+#item-red {
+    color: #e74c3c;
+}
